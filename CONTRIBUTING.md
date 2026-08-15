@@ -4,16 +4,16 @@
 
 ## How to contribute
 
-The easiest way to contribute is to *report a bug* or *propose a new feature* using [GitHub Issues](https://github.com/handsomecode/InteractiveSideMenu/issues).
+The easiest way to contribute is to *report a bug* or *propose a new feature* using [GitHub Issues](https://github.com/raw-materials/InteractiveSideMenu/issues).
 Also, feel free to send your suggestions concerning any library issues, documentation and README typos, [Sample](./Sample) improvements, or any other enhancements. **We really appreciate your participation!**
 
 ### How to ask a question
 
-Before asking a question, please look through the [README](./README.md) and [Sample application](./Sample) or take a look into [already asked GitHub Issues](https://github.com/handsomecode/InteractiveSideMenu/issues) (even closed). If you still haven't found an answer, feel free to [open an issue](https://github.com/handsomecode/InteractiveSideMenu/issues/new) and ask us your question and mark it with the prepared `question` label.
+Before asking a question, please look through the [README](./README.md) and [Sample application](./Sample) or take a look into [already asked GitHub Issues](https://github.com/raw-materials/InteractiveSideMenu/issues) (even closed). If you still haven't found an answer, feel free to [open an issue](https://github.com/raw-materials/InteractiveSideMenu/issues/new) and ask us your question and mark it with the prepared `question` label.
 
 ### How to report a bug
 
-The standard way to report a bug is [GitHub Issues](https://github.com/handsomecode/InteractiveSideMenu/issues).
+The standard way to report a bug is [GitHub Issues](https://github.com/raw-materials/InteractiveSideMenu/issues).
 
 Explain the problem and include additional details to help maintainers reproduce the problem:
 
@@ -34,23 +34,23 @@ Include details about your configuration and environment:
 
 ### How to request an enhancement
 
-**Enhancements** are features that you might like to suggest to a project, but aren't necessarily bugs/problems with the existing code. There is *a label* for enhancements in [Github's Issues](https://github.com/handsomecode/InteractiveSideMenu/issues), so you can tag issues as `enhancement`, and thereby allow us to prioritize issues/bugs reported to the project.
+**Enhancements** are features that you might like to suggest to a project, but aren't necessarily bugs/problems with the existing code. There is *a label* for enhancements in [Github's Issues](https://github.com/raw-materials/InteractiveSideMenu/issues), so you can tag issues as `enhancement`, and thereby allow us to prioritize issues/bugs reported to the project.
 
 
 ### How to tell us about your application
 
-If you are using **InteractiveSideMenu** in your project that is successfully published to AppStore, [send the link](https://github.com/handsomecode/InteractiveSideMenu/issues/new) to us and we'll add you to the list of applications that use the library.
+If you are using **InteractiveSideMenu** in your project that is successfully published to AppStore, [send the link](https://github.com/raw-materials/InteractiveSideMenu/issues/new) to us and we'll add you to the list of applications that use the library.
 
 
 ### How to submit changes
 
-When contributing to this repository, please, first discuss the change you wish to make via [issue](https://github.com/handsomecode/InteractiveSideMenu/issues/new).
-The preferred workflow for contributing to InteractiveSideMenu is to fork the [main repository](https://github.com/handsomecode/InteractiveSideMenu) on
+When contributing to this repository, please, first discuss the change you wish to make via [issue](https://github.com/raw-materials/InteractiveSideMenu/issues/new).
+The preferred workflow for contributing to InteractiveSideMenu is to fork the [main repository](https://github.com/raw-materials/InteractiveSideMenu) on
 GitHub, clone, and develop on a branch.
 
 **Steps:**
 
-1. Fork the [project repository](https://github.com/handsomecode/InteractiveSideMenu)
+1. Fork the [project repository](https://github.com/raw-materials/InteractiveSideMenu)
    by clicking on the 'Fork' button near the top right of the page. This creates
    a copy of the code under your GitHub user account. For more details on
    how to fork a repository see [this guide](https://help.github.com/articles/fork-a-repo/).

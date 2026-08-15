@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/handsomecode/InteractiveSideMenu">
+    <a href="https://github.com/raw-materials/InteractiveSideMenu">
         <img src="Screenshots/InteractiveSideMenu.gif">
     </a>
 </p>
@@ -13,7 +13,7 @@
     <a href="https://github.com/Carthage/Carthage">
         <img src="https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat" alt="Carthage compatible">
     </a>
-    <a href="https://github.com/handsomecode/InteractiveSideMenu/blob/master/LICENSE">
+    <a href="https://github.com/raw-materials/InteractiveSideMenu/blob/master/LICENSE">
         <img src="https://img.shields.io/hexpm/l/plug.svg" alt="License: Apache 2.0">
     </a>
 </p>
@@ -35,7 +35,7 @@ Here are some of the ways Interactive Side Menu can be customized:
 - If you **have a feature request**, open an issue.
 - If you **are ready to contribute**, submit a pull request.
 - If you **like Interactive Side Menu**, please, give it a star.
-- If you **use Interactive Side Menu in your application published to AppStore**, [send us a link](https://github.com/handsomecode/InteractiveSideMenu/issues/new) and we'll create the list with applications used our library.
+- If you **use Interactive Side Menu in your application published to AppStore**, [send us a link](https://github.com/raw-materials/InteractiveSideMenu/issues/new) and we'll create the list with applications used our library.
 
 You can find more details into [CONTRIBUTING](./CONTRIBUTING.md) file.
 
@@ -51,7 +51,7 @@ Please, don't forget to run `pod update` command to update your local specs repo
 ### Carthage
 To install using [Carthage](https://github.com/Carthage/Carthage), add the following line to your Cartfile:
 ```
-github "handsomecode/InteractiveSideMenu"
+github "raw-materials/InteractiveSideMenu"
 ```
 
 ## Usage
@@ -153,7 +153,7 @@ override func viewWillTransition(to size: CGSize, with coordinator: UIViewContro
  Check out the [Sample](./Sample) project for more details and usage examples.
  
 # Known Issues
-There is [an issue](https://github.com/handsomecode/InteractiveSideMenu/issues/53) associated with the content controller's view not properly having the `safeAreaInsets` set.  This causes the view's layout to shift when the side menu is closed.  The issue appears to be tied to the transition options `contentScale` setting.  Choosing a value in the range 0.87 - 0.91 causes the `safeAreaInsets.top` to be set to `0.0`.  The default value of the library is no longer within this range but be mindful if changing that value for your own application.
+There is [an issue](https://github.com/raw-materials/InteractiveSideMenu/issues/53) associated with the content controller's view not properly having the `safeAreaInsets` set.  This causes the view's layout to shift when the side menu is closed.  The issue appears to be tied to the transition options `contentScale` setting.  Choosing a value in the range 0.87 - 0.91 causes the `safeAreaInsets.top` to be set to `0.0`.  The default value of the library is no longer within this range but be mindful if changing that value for your own application.
 
 
 # Requirements

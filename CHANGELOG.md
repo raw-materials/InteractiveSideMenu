@@ -87,6 +87,6 @@ override func viewWillTransition(to size: CGSize, with coordinator: UIViewContro
 - Sample demonstrating using SideMenu library
 - README file
 
-[2017-10-23]: https://github.com/handsomecode/InteractiveSideMenu/compare/2.0...2.1
-[2017-06-07]: https://github.com/handsomecode/InteractiveSideMenu/compare/1.0...2.0
-[Issue #17]: https://github.com/handsomecode/InteractiveSideMenu/issues/17
+[2017-10-23]: https://github.com/raw-materials/InteractiveSideMenu/compare/2.0...2.1
+[2017-06-07]: https://github.com/raw-materials/InteractiveSideMenu/compare/1.0...2.0
+[Issue #17]: https://github.com/raw-materials/InteractiveSideMenu/issues/17
